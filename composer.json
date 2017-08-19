@@ -1,10 +1,6 @@
 {
     "name": "chungnt92/chungnt",
     "type": "library",
-    "require": {
-        "php": ">=5.4.0",
-        "laravel/laravel": "~5"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -13,5 +9,16 @@
             "homepage": "https://chungnguyen.xyz"
         }
     ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/config": "~5",
+        "illuminate/support": "~5",
+        "laravel/laravel": "~5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChungNT": "src/"
+        }
+    },
     "minimum-stability": "dev"
 }
