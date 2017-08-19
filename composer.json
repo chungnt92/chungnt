@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ChungNT": "src/"
+            "Chungntvn": "src"
         }
     },
     "version": "1.0.0",
