@@ -1,6 +1,7 @@
 {
     "name": "chungnt92/chungnt",
     "type": "library",
+    "keywords": ["chung", "laravel"],
     "license": "MIT",
     "authors": [
         {
