@@ -1,15 +1,16 @@
 {
-    "name": "chungnt/chungnt",
+    "name": "chungnt92/chungnt",
     "type": "library",
     "require": {
         "php": ">=5.4.0",
-        "laravel/laravel": "5"
+        "laravel/laravel": "~5"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "chungnt92",
-            "email": "30641386+chungnt92@users.noreply.github.com"
+            "name": "NGUYEN TRAN CHUNG",
+            "email": "mvlchung@gmail.com",
+            "homepage": "https://chungnguyen.xyz"
         }
     ],
     "minimum-stability": "dev"
